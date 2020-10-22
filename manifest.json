@@ -3,11 +3,11 @@
 
   "name": "GTmetrix Analyzer Plugin",
   "description": "This extension will analyze a plugin page using GTmetrix",
-  "version": "1.0",
+  "version": "1.2",
 
   "browser_action": {
     "default_icon": "icon.png",
-    "defaut_popup": "popup.html"
+    "default_popup": "popup.html"
   },
   "permissions": [
     "activeTab"
